@@ -2,6 +2,6 @@
   "versionCode": 2,
   "minVersionCode": 1,
   "apkUrl": "https://github.com/baolongdev/chat-bot-app-update/releases/latest/download/app-release.apk",
-  "changelog": "Phien ban 2.0.0 \n - Them tinh nang moi \n - Cai tien giao dien nguoi dung \n - Fix volumne output",
-  "sha256": "9da2a806b946d234d995db0e782b6e175423e2ff445599081dc4cbca5ac7031c"
+  "changelog": "Phien ban 2.0.1 \n - fix kết nối với ble và tăng âm lương loa",
+  "sha256": "b12045f89375b3445918c0469b99373a829f34ce23247cae2be385134ceb9cee"
 }
