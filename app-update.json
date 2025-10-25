@@ -3,5 +3,5 @@
   "minVersionCode": 1,
   "apkUrl": "https://github.com/baolongdev/chat-bot-app-update/releases/latest/download/app-release.apk",
   "changelog": "Phien ban 2.0.1 \n - fix kết nối với ble và tăng âm lương loa",
-  "sha256": "b12045f89375b3445918c0469b99373a829f34ce23247cae2be385134ceb9cee"
+  "sha256": "1db388835fa7a48aa41253e44a63a7e73668b790768026d00e93246567278fcf"
 }
